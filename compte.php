@@ -80,5 +80,7 @@ class compte{
         $this->dinersI = $dinersI;
     }
     
+    $cuenta = new Compte("Jonn", "Romero", "Hernandez", 20);
+    echo $cuenta -> getDinersI(); 
 }
 ?>

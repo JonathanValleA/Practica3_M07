@@ -79,6 +79,5 @@ class compte{
     {
         $this->dinersI = $dinersI;
     }
-    
 }
 ?>

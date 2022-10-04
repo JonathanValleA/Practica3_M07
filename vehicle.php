@@ -97,8 +97,5 @@
     function vehicleCreat(){
         return $this->model . " " . $this->cavalls;
     }
-
-
-    
 }
 ?>

@@ -24,6 +24,11 @@
         $this->model = $model;
         $this->marca = $marca;
     }
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+=======
+=======
+>>>>>>> 7a55916a08d430f685ebece2e11cd4fb38af1df2
 
     //Mi Parteee
 
@@ -97,5 +102,9 @@
         return $this->model . " " . $this->cavalls;
     }
 
+<<<<<<< HEAD
+>>>>>>> Stashed changes
+=======
+>>>>>>> 7a55916a08d430f685ebece2e11cd4fb38af1df2
 }
 ?>

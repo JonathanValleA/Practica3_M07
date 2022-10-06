@@ -25,7 +25,6 @@
         $this->marca = $marca;
     }
 
-
     //Mi Parteee
 
     /*Getter Nom*/
@@ -98,7 +97,5 @@
         return $this->model . " " . $this->cavalls;
     }
 
-
-    
 }
 ?>

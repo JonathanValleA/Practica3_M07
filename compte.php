@@ -5,6 +5,7 @@ class compte{
     private $cognom2;
     private $dinersI;
 
+
     function __construct1(){
 
     }
@@ -63,4 +64,5 @@ $cuenta->quitar(100);
 echo "<p><b>- Saldo Retirado: </b>" .$cuenta->getDinersI() . "</p>";
 $cuenta->agregar(450);
 echo "<p><b>- Saldo Añadido: </b>" . $cuenta->getDinersI() . "</p>";
+
 ?>
